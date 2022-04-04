@@ -1,4 +1,4 @@
-# Spotify-Song-Analysis-And-Machine-Learning
+# Spotify Song Analysis And Machine Learning
 
 This is a data science and analysis project where I used a Kaggle Spotify dataset with over 160k songs.
 *	Exploratory Data Analysis: I explored the data through visualization techniques like using histograms and heatmapping with the help of matplotlib library.
